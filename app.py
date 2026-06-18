@@ -8,6 +8,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 app = Dash(__name__)
+server = app.server
 
 MESES = {
     "2026-07": "Julio 2026",
