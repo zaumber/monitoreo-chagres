@@ -1,0 +1,8 @@
+dash
+dash-leaflet
+plotly
+geopandas
+pandas
+numpy
+joblib
+shapely
