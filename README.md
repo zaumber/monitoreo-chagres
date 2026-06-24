@@ -111,6 +111,3 @@ El dashboard está desplegado en [Render](https://render.com) como Web Service d
 
 Python, Google Earth Engine (`ee`, `geemap`), Pandas, NumPy, Geopandas, Shapely, Scikit-learn, Dash, Plotly, dash-leaflet, Render.
 
-## Autor
-
-[Tu nombre aquí]
