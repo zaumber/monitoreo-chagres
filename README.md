@@ -1,7 +1,7 @@
 # Monitoreo Forestal — Parque Nacional Chagres
 
-
-Sistema de monitoreo geoespacial que combina imágenes satelitales (Google Earth Engine), un modelo de machine learning y un dashboard interactivo para predecir zonas de estrés forestal ante eventos de sequía en el Parque Nacional Chagres, Panamá.
+Sistema de monitorea geoespacial del área del parque de chagres, para monitorear la reaccion del parque con respecto a las épocas de sequia y determinar las zonas mas propensas a estas en riesgo debido a la sequia o baja humdedad o propensas a perder bosque
+combina imágenes satelitales (Google Earth Engine), un modelo de machine learning y un dashboard interactivo para predecir zonas de estrés forestal ante eventos de sequía en el Parque Nacional Chagres, Panamá.
 
 Demo: https://monitoreo-chagres.onrender.com/
 
