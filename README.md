@@ -94,7 +94,7 @@ python app.py
 
 La aplicación queda disponible en `http://localhost:8050`.
 
-El notebook `final-2.ipynb` requiere autenticación con Google Earth Engine (`ee.Authenticate()`) y un proyecto de GEE activo para regenerar los datos desde cero. Los archivos CSV y GeoJSON ya generados permiten correr el dashboard sin necesidad de re-ejecutar el notebook.
+requiere autenticación con Google Earth Engine (`ee.Authenticate()`) y un proyecto de GEE activo para regenerar los datos desde cero. Los archivos CSV y GeoJSON ya generados permiten correr el dashboard sin necesidad de re-ejecutar.
 
 ## Despliegue
 
