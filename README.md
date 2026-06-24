@@ -57,7 +57,7 @@ Construido con Dash y Plotly. Incluye:
 - Mapa interactivo (dash-leaflet) con las celdas del parque coloreadas según su nivel de riesgo de estrés forestal.
 - Cuatro gráficos históricos: NDVI (con la predicción a futuro superpuesta), LST, precipitación e índice ONI.
 - Panel de indicadores con el conteo y porcentaje de zonas en cada nivel de riesgo para el mes seleccionado.
-- Filtros: selector de mes predicho, rango de años para las gráficas históricas, y [añadir aquí el tercer filtro si ya está implementado].
+- Filtros: selector de mes predicho, rango de años para las gráficas históricas.
 
 ## Estructura del repositorio
 
